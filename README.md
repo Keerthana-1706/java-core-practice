@@ -1,17 +1,19 @@
-# java-core-practice
-Hands-on Core Java practice covering fundamentals, OOP, collections, and problem-solving.
-
 # Java Core Practice
 
-This repository contains my hands-on practice of Core Java concepts for Software Developer roles.
+Hands-on Core Java practice covering fundamentals, OOP, collections, and problem-solving.
 
 ## Topics Covered
 - Java Basics
 - Control Statements
-- Arrays and Strings
-- Object-Oriented Programming
+- Arrays
+- Strings
+- Object-Oriented Programming (OOP)
 - Collections Framework
 - Exception Handling
 
 ## Goal
-To strengthen Core Java fundamentals and build a strong coding profile.
+To strengthen Core Java fundamentals and build a strong coding profile for Software Developer roles.
+
+## Tech Stack
+- Java
+- JDK 17+
