@@ -8,7 +8,7 @@ public class EmployeeProfile {
         char departmentCode = 'A';
         boolean isPermanent = true;
 
-       
+        
         System.out.println("----------- Employee Profile -----------");
         System.out.println("Name          : " + employeeName);
         System.out.println("Employee ID   : " + employeeId);
