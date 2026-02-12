@@ -1,16 +1,26 @@
 public class StudentProfileV2 {
 
-    public static void main(String[] args)
-{
+    public static void main(String[] args) {
 
-    double salary = 45678.90;
-    int roundSalary = (int)salary;
+        // Constant (value should not change)
+        final String COMPANY_NAME = "ABC Technologies";
 
-    final String COLLEGE_NAME = "ABC Engineering College";
-    System.out.println(salary);
-    System.out.println(roundSalary);
-    System.out.println(COLLEGE_NAME);
-    
+        // Original salary (double)
+        double salary = 45678.90;
+
+        // Explicit casting: double → int
+        int roundedSalary = (int) salary;
+
+        // Implicit casting: int → double
+        int experienceYears = 5;
+        double experienceAsDouble = experienceYears;
+
+        // Output
+        System.out.println("--------- Employee Salary Details ---------");
+        System.out.println("Company            : " + COMPANY_NAME);
+        System.out.println("Original Salary    : " + salary);
+        System.out.println("Rounded Salary     : " + roundedSalary);
+        System.out.println("Experience (years) : " + experienceYears);
+        System.out.println("Experience (double): " + experienceAsDouble);
+    }
 }
-}
-//Add constant and type casting example in StudentProfileV2
