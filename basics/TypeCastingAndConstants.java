@@ -11,7 +11,7 @@ public class TypeCastingAndConstants {
         // Explicit casting: double → int
         int roundedSalary = (int) salary;
 
-        // Implicit casting: int → double (no need to specify double again as "(double") like explicit.
+        // Implicit casting: int → double
         int experienceYears = 5;
         double experienceAsDouble = experienceYears;
 
