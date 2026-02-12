@@ -1,4 +1,4 @@
-public class StudentProfileV2 {
+public class TypeCastingAndConstants {
 
     public static void main(String[] args) {
 
