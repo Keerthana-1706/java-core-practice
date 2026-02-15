@@ -1,5 +1,4 @@
-//Add program to calculate sum of first N numbers using for loop
-// this : add in commit & remove this before pushing to git
+
 
 
 import java.util.Scanner;
